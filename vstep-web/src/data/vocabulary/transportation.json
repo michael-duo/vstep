@@ -1,0 +1,17 @@
+[
+  { "word": "public transport", "vietnamese": "giao thông công cộng", "example": "Public transport is cheaper than using a taxi." },
+  { "word": "bus / train", "vietnamese": "xe buýt / tàu hỏa", "example": "I take the bus to school every day." },
+  { "word": "traffic jam", "vietnamese": "kẹt xe, tắc đường", "example": "There was a terrible traffic jam on the way to work." },
+  { "word": "commute", "vietnamese": "đi lại hàng ngày", "example": "My daily commute takes about thirty minutes." },
+  { "word": "vehicle", "vietnamese": "phương tiện giao thông", "example": "Motorbikes are the most common vehicle in Vietnam." },
+  { "word": "bicycle / motorbike", "vietnamese": "xe đạp / xe máy", "example": "I ride my motorbike to work every day." },
+  { "word": "petrol / fuel", "vietnamese": "xăng / nhiên liệu", "example": "The price of petrol has gone up recently." },
+  { "word": "parking", "vietnamese": "đỗ xe / bãi đỗ xe", "example": "Finding parking in the city centre is difficult." },
+  { "word": "convenient", "vietnamese": "tiện lợi", "example": "Living near a bus stop is very convenient." },
+  { "word": "ticket / fare", "vietnamese": "vé / giá vé", "example": "A monthly bus ticket is quite affordable." },
+  { "word": "rush hour", "vietnamese": "giờ cao điểm", "example": "Roads are very busy during rush hour." },
+  { "word": "on foot", "vietnamese": "đi bộ", "example": "I prefer to travel on foot when the weather is nice." },
+  { "word": "delay", "vietnamese": "trễ, chậm trễ", "example": "The train was delayed by twenty minutes." },
+  { "word": "road / highway", "vietnamese": "đường / cao tốc", "example": "The new highway connects the two cities." },
+  { "word": "safe / safety", "vietnamese": "an toàn", "example": "Always wear a helmet for your safety." }
+]

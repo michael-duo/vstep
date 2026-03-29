@@ -1,0 +1,19 @@
+{
+  "skipLink.label": "Bỏ qua đến nội dung",
+  "search.label": "Tìm kiếm",
+  "search.shortcutLabel": "(nhấn /)",
+  "search.cancelLabel": "Hủy",
+  "themeSelect.accessibleLabel": "Chọn giao diện",
+  "themeSelect.dark": "Tối",
+  "themeSelect.light": "Sáng",
+  "themeSelect.auto": "Tự động",
+  "menuButton.accessibleLabel": "Menu",
+  "sidebarNav.accessibleLabel": "Điều hướng",
+  "tableOfContents.onThisPage": "Trên trang này",
+  "tableOfContents.overview": "Tổng quan",
+  "page.editLink": "Chỉnh sửa trang",
+  "page.lastUpdated": "Cập nhật lần cuối:",
+  "page.previousLink": "Trước",
+  "page.nextLink": "Tiếp theo",
+  "404.text": "Không tìm thấy trang."
+}

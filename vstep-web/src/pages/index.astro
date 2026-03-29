@@ -1,0 +1,59 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+---
+
+<StarlightPage frontmatter={{ title: 'Ôn thi VSTEP B1', template: 'splash' }}>
+  <div class="mx-auto max-w-4xl px-4 py-8">
+    <div class="mb-8 text-center">
+      <h1 class="mb-4 text-4xl font-bold">Ôn thi VSTEP B1</h1>
+      <p class="text-lg text-gray-600 dark:text-gray-300">
+        Tài liệu tự ôn thi VSTEP B1 cho sinh viên đại học.<br />
+        Từ con số 0 đến đạt điểm B1 — có lộ trình, có chiến lược, có bài mẫu.
+      </p>
+      <a
+        href="/getting-started/what-is-vstep/"
+        class="mt-4 inline-block rounded-lg bg-blue-600 px-6 py-3 font-semibold text-white hover:bg-blue-700"
+      >
+        Bắt đầu từ đây →
+      </a>
+    </div>
+
+    <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <a href="/getting-started/exam-structure/" class="group rounded-lg border border-gray-200 p-6 transition-shadow hover:shadow-lg dark:border-gray-700">
+        <div class="mb-2 text-2xl">🎧</div>
+        <h2 class="mb-1 text-xl font-bold group-hover:text-blue-600">Listening</h2>
+        <p class="text-sm text-gray-500">Chiến lược nghe, từ vựng, mẹo làm bài</p>
+      </a>
+
+      <a href="/getting-started/exam-structure/" class="group rounded-lg border border-gray-200 p-6 transition-shadow hover:shadow-lg dark:border-gray-700">
+        <div class="mb-2 text-2xl">📖</div>
+        <h2 class="mb-1 text-xl font-bold group-hover:text-blue-600">Reading</h2>
+        <p class="text-sm text-gray-500">Chiến lược đọc, từ vựng, quản lý thời gian</p>
+      </a>
+
+      <a href="/getting-started/exam-structure/" class="group rounded-lg border border-gray-200 p-6 transition-shadow hover:shadow-lg dark:border-gray-700">
+        <div class="mb-2 text-2xl">🗣️</div>
+        <h2 class="mb-1 text-xl font-bold group-hover:text-blue-600">Speaking</h2>
+        <p class="text-sm text-gray-500">Templates, bài mẫu, chủ đề hay gặp</p>
+      </a>
+
+      <a href="/writing/checklist/" class="group rounded-lg border border-gray-200 p-6 transition-shadow hover:shadow-lg dark:border-gray-700">
+        <div class="mb-2 text-2xl">✍️</div>
+        <h2 class="mb-1 text-xl font-bold group-hover:text-blue-600">Writing</h2>
+        <p class="text-sm text-gray-500">Viết thư, viết luận, checklist đạt B1</p>
+      </a>
+
+      <a href="/foundation/vocabulary/" class="group rounded-lg border border-gray-200 p-6 transition-shadow hover:shadow-lg dark:border-gray-700">
+        <div class="mb-2 text-2xl">📚</div>
+        <h2 class="mb-1 text-xl font-bold group-hover:text-blue-600">Từ vựng</h2>
+        <p class="text-sm text-gray-500">15-20 chủ đề, từ nối, cấu trúc câu</p>
+      </a>
+
+      <a href="/practice-tests/" class="group rounded-lg border border-gray-200 p-6 transition-shadow hover:shadow-lg dark:border-gray-700">
+        <div class="mb-2 text-2xl">📝</div>
+        <h2 class="mb-1 text-xl font-bold group-hover:text-blue-600">Đề thi thử</h2>
+        <p class="text-sm text-gray-500">20 đề thi thật + hướng dẫn luyện đề</p>
+      </a>
+    </div>
+  </div>
+</StarlightPage>

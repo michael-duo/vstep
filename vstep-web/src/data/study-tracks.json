@@ -1,0 +1,40 @@
+[
+  {
+    "name": "4 tuần cấp tốc",
+    "weeks": [
+      { "week": "1", "focus": "Nền tảng ★★★", "pages": "getting-started/exam-structure, foundation/sentence-patterns, foundation/linking-words, speaking/universal-ideas", "tasks": "Nắm cấu trúc đề thi, học 6 cấu trúc câu cơ bản, học từ nối, học 10 ý vạn năng cho Speaking" },
+      { "week": "2", "focus": "Speaking Part 1-2-3 + Writing checklist", "pages": "speaking/part-1, speaking/part-2, speaking/part-3, writing/checklist", "tasks": "Học 5 template Part 1, luyện Part 2, học Part 3 monologue, học checklist Writing B1" },
+      { "week": "3", "focus": "Thư informal + Essay + Listening", "pages": "writing/task-1/informal-letter, writing/task-2/discuss-both-views, listening/strategies", "tasks": "Học template thư informal, học dạng Discuss Both Views, nắm chiến lược nghe 3 phần" },
+      { "week": "4", "focus": "Luyện đề + Reading + Thư formal", "pages": "practice-tests, reading/strategies, writing/task-1/formal-letter", "tasks": "Làm 5 đề thử hoàn chỉnh, học chiến lược Skim-Scan, học 3 dạng thư formal" }
+    ]
+  },
+  {
+    "name": "8 tuần chuẩn",
+    "weeks": [
+      { "week": "1", "focus": "Nền tảng từ vựng (nhóm 1)", "pages": "foundation/vocabulary", "tasks": "Học 9 chủ đề từ vựng hay gặp nhất, dùng ô tìm kiếm ôn luyện" },
+      { "week": "2", "focus": "Ngữ pháp nền tảng", "pages": "foundation/linking-words, foundation/sentence-patterns, foundation/common-mistakes", "tasks": "Học từ nối, 6 cấu trúc câu cơ bản, 7 lỗi thường gặp" },
+      { "week": "3", "focus": "Speaking Part 1 + 2", "pages": "getting-started/exam-structure, speaking/universal-ideas, speaking/part-1, speaking/part-2", "tasks": "Nắm cấu trúc đề thi, học 10 ý vạn năng, 5 template Part 1, luyện tình huống Part 2" },
+      { "week": "4", "focus": "Speaking Part 3 + Writing thư", "pages": "speaking/part-3, writing/task-1/formal-letter, writing/task-1/informal-letter", "tasks": "Luyện Part 3 monologue, học template thư formal và informal" },
+      { "week": "5", "focus": "Writing Essay", "pages": "writing/task-2/discuss-both-views, writing/checklist", "tasks": "Học dạng Discuss Both Views và các dạng khác, luyện viết 1 bài hoàn chỉnh" },
+      { "week": "6", "focus": "Listening", "pages": "getting-started/exam-structure, listening/strategies, listening/vocabulary", "tasks": "Nắm cấu trúc 3 phần, chiến lược từng phần, luyện nghe 30 phút/ngày" },
+      { "week": "7", "focus": "Reading", "pages": "getting-started/exam-structure, reading/strategies, reading/vocabulary", "tasks": "Skim + Scan, đọc câu hỏi trước, làm 2 bài đọc thi thử" },
+      { "week": "8", "focus": "Luyện đề + Ôn tổng hợp", "pages": "practice-tests, reference/exam-analysis, checklist", "tasks": "Làm 3 đề thử hoàn chỉnh, xem phân tích 20 đề thật, dùng checklist" }
+    ]
+  },
+  {
+    "name": "12 tuần kỹ",
+    "weeks": [
+      { "week": "1-2", "focus": "Từ vựng 20 chủ đề", "pages": "foundation/vocabulary", "tasks": "Học đủ 20 chủ đề từ vựng, 10 từ/ngày, dùng ô lọc để ôn" },
+      { "week": "3", "focus": "Ngữ pháp cơ bản", "pages": "foundation/linking-words, foundation/sentence-patterns", "tasks": "Học từ nối + cấu trúc câu, viết 5 câu ví dụ/ngày" },
+      { "week": "4", "focus": "Nâng cấp câu + Lỗi thường gặp", "pages": "foundation/sentence-upgrade, foundation/common-mistakes", "tasks": "Luyện viết câu ghép, tránh 7 lỗi phổ biến" },
+      { "week": "5", "focus": "Speaking Part 1", "pages": "getting-started/exam-structure, speaking/universal-ideas, speaking/part-1", "tasks": "Nắm cấu trúc đề thi, học 10 ý vạn năng, 5 template, luyện nói 10 chủ đề hay gặp" },
+      { "week": "6", "focus": "Speaking Part 2 + 3", "pages": "speaking/part-2, speaking/part-3", "tasks": "Luyện 5 tình huống Part 2 điển hình, luyện Part 3 monologue 2 phút" },
+      { "week": "7", "focus": "Writing: Thư informal + formal", "pages": "writing/task-1/formal-letter, writing/task-1/informal-letter", "tasks": "Học template cả 2 loại thư, viết 2 bài luyện" },
+      { "week": "8", "focus": "Writing: Essay Discuss Both Views", "pages": "writing/task-2/discuss-both-views", "tasks": "Học dạng Discuss Both Views, viết 1 bài rồi tự chấm theo checklist" },
+      { "week": "9", "focus": "Listening từng phần", "pages": "getting-started/exam-structure, listening/strategies", "tasks": "Chiến lược P1, P2, P3 riêng biệt, luyện nghe mỗi ngày 30 phút" },
+      { "week": "10", "focus": "Reading + từ vựng đọc hiểu", "pages": "getting-started/exam-structure, reading/strategies, reading/vocabulary", "tasks": "Skim-Scan, đọc câu hỏi trước, học từ vựng học thuật" },
+      { "week": "11", "focus": "Đề thử + Phân tích điểm yếu", "pages": "practice-tests, reference/exam-analysis", "tasks": "Làm 3 đề thử, xác định kỹ năng yếu nhất để ôn thêm" },
+      { "week": "12", "focus": "Ôn tổng hợp + Checklist", "pages": "checklist, practice-tests", "tasks": "Làm thêm 2 đề thử, dùng checklist 4 kỹ năng, ôn lại điểm yếu" }
+    ]
+  }
+]

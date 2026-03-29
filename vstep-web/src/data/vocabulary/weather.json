@@ -1,0 +1,17 @@
+[
+  { "word": "sunny", "vietnamese": "nắng", "example": "It is a warm and sunny day today." },
+  { "word": "rainy / rainfall", "vietnamese": "mưa / lượng mưa", "example": "The rainy season in Vietnam is from May to October." },
+  { "word": "cloudy / overcast", "vietnamese": "nhiều mây / u ám", "example": "The sky is cloudy, so it might rain later." },
+  { "word": "windy", "vietnamese": "có gió", "example": "It is very windy today — hold your hat!" },
+  { "word": "temperature", "vietnamese": "nhiệt độ", "example": "The temperature in Hanoi in winter can drop below 15 degrees." },
+  { "word": "forecast", "vietnamese": "dự báo thời tiết", "example": "According to the forecast, it will rain tomorrow." },
+  { "word": "climate", "vietnamese": "khí hậu", "example": "Vietnam has a tropical climate." },
+  { "word": "season", "vietnamese": "mùa", "example": "Vietnam has two main seasons: wet and dry." },
+  { "word": "flood", "vietnamese": "lũ lụt", "example": "Heavy rain caused serious flooding in the region." },
+  { "word": "storm / typhoon", "vietnamese": "bão", "example": "A strong typhoon hit the coast last week." },
+  { "word": "humid / humidity", "vietnamese": "ẩm ướt / độ ẩm", "example": "It is very hot and humid in summer." },
+  { "word": "drought", "vietnamese": "hạn hán", "example": "The long drought destroyed many crops." },
+  { "word": "cool / chilly", "vietnamese": "mát / se lạnh", "example": "The weather in Da Lat is cool all year round." },
+  { "word": "comfortable weather", "vietnamese": "thời tiết dễ chịu", "example": "Spring has the most comfortable weather." },
+  { "word": "umbrella / raincoat", "vietnamese": "ô / áo mưa", "example": "Do not forget your umbrella — it might rain!" }
+]
