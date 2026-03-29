@@ -23,27 +23,51 @@ export default defineConfig({
           label: "📍 Bắt đầu từ đây",
           items: [
             { slug: "getting-started/what-is-vstep", label: "VSTEP B1 là gì?" },
-            { slug: "getting-started/exam-structure", label: "Cấu trúc đề thi chi tiết" },
+            {
+              slug: "getting-started/exam-structure",
+              label: "Cấu trúc đề thi chi tiết",
+            },
             { slug: "getting-started/study-roadmap", label: "Lộ trình ôn thi" },
           ],
         },
         {
           label: "🧱 Nền tảng",
           items: [
-            { slug: "foundation/sentence-patterns", label: "Cấu trúc câu vạn năng" },
+            {
+              slug: "foundation/sentence-patterns",
+              label: "Cấu trúc câu vạn năng",
+            },
             { slug: "foundation/linking-words", label: "Từ nối" },
             {
-              label: "Từ vựng & cụm từ theo chủ đề",
+              label: "Từ vựng theo chủ đề",
               items: [
-                { slug: "foundation/vocabulary", label: "Tổng quan & Cách ghép" },
-                { slug: "foundation/vocabulary/hobbies", label: "Hobbies / Interests" },
-                { slug: "foundation/vocabulary/education", label: "Education / Study" },
+                {
+                  slug: "foundation/vocabulary",
+                  label: "Tổng quan & Cách ghép",
+                },
+                {
+                  slug: "foundation/vocabulary/hobbies",
+                  label: "Hobbies / Interests",
+                },
+                {
+                  slug: "foundation/vocabulary/education",
+                  label: "Education / Study",
+                },
                 { slug: "foundation/vocabulary/jobs", label: "Jobs" },
                 { slug: "foundation/vocabulary/health", label: "Health" },
-                { slug: "foundation/vocabulary/transportation", label: "Transportation" },
+                {
+                  slug: "foundation/vocabulary/transportation",
+                  label: "Transportation",
+                },
                 { slug: "foundation/vocabulary/places", label: "Places" },
-                { slug: "foundation/vocabulary/technology", label: "Technology" },
-                { slug: "foundation/vocabulary/travel", label: "Travel / Holiday" },
+                {
+                  slug: "foundation/vocabulary/technology",
+                  label: "Technology",
+                },
+                {
+                  slug: "foundation/vocabulary/travel",
+                  label: "Travel / Holiday",
+                },
                 { slug: "foundation/vocabulary/crime", label: "Crime" },
               ],
             },
@@ -68,14 +92,23 @@ export default defineConfig({
             {
               label: "Task 1: Viết thư",
               items: [
-                { slug: "writing/task-1/informal-letter", label: "Thư không trang trọng" },
-                { slug: "writing/task-1/formal-letter", label: "Thư trang trọng" },
+                {
+                  slug: "writing/task-1/informal-letter",
+                  label: "Thư không trang trọng",
+                },
+                {
+                  slug: "writing/task-1/formal-letter",
+                  label: "Thư trang trọng",
+                },
               ],
             },
             {
               label: "Task 2: Viết luận",
               items: [
-                { slug: "writing/task-2/discuss-both-views", label: "Discuss Both Views" },
+                {
+                  slug: "writing/task-2/discuss-both-views",
+                  label: "Discuss Both Views",
+                },
                 { slug: "writing/task-2/other-types", label: "3 dạng còn lại" },
               ],
             },
@@ -99,7 +132,10 @@ export default defineConfig({
         {
           label: "📝 Luyện đề",
           items: [
-            { slug: "practice-tests/how-to-practice", label: "Hướng dẫn luyện đề" },
+            {
+              slug: "practice-tests/how-to-practice",
+              label: "Hướng dẫn luyện đề",
+            },
             { slug: "practice-tests", label: "Danh sách đề" },
           ],
         },
