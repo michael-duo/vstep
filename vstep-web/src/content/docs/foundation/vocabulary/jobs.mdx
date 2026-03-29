@@ -4,6 +4,13 @@ description: Cụm từ và từ vựng chủ đề công việc cho VSTEP B1
 ---
 
 import VocabularyTable from '@components/VocabularyTable';
-import data from '@data/vocabulary/jobs.json';
+import phrases from '@data/vocabulary/jobs.json';
+import vocab from '@data/vocabulary/jobs-vocab.json';
 
-<VocabularyTable client:load topic="Công việc (Jobs)" data={data} />
+## Cụm từ — thêm chủ ngữ (I, We, It...) phía trước = câu hoàn chỉnh
+
+<VocabularyTable client:load topic="" data={phrases} wordLabel="Cụm từ (V + O)" />
+
+## Từ vựng tham khảo
+
+<VocabularyTable client:load topic="" data={vocab} wordLabel="Từ vựng" />

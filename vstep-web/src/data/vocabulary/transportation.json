@@ -1,16 +1,10 @@
 [
   { "word": "go to school/work by + transport", "vietnamese": "đi học/làm bằng...", "example": "I go to school by bus every day." },
   { "word": "take the bus / train", "vietnamese": "đi xe buýt / tàu", "example": "I take the bus to school every morning." },
-  { "word": "traffic jam", "vietnamese": "kẹt xe, tắc đường", "example": "There was a terrible traffic jam this morning." },
-  { "word": "public transport", "vietnamese": "giao thông công cộng", "example": "Public transport is cheaper than using a taxi." },
-  { "word": "rush hour", "vietnamese": "giờ cao điểm", "example": "Roads are very busy during rush hour." },
-  { "word": "on foot", "vietnamese": "đi bộ", "example": "I prefer to go to school on foot when the weather is nice." },
+  { "word": "travel on foot", "vietnamese": "đi bộ", "example": "I travel on foot when the weather is nice." },
   { "word": "be convenient and fast", "vietnamese": "tiện lợi và nhanh", "example": "Motorbikes are convenient and fast in the city." },
   { "word": "be crowded at rush hours", "vietnamese": "đông đúc vào giờ cao điểm", "example": "Buses are pretty crowded at rush hours." },
-  { "word": "feel comfortable and relaxed", "vietnamese": "thoải mái và thư giãn", "example": "On the bus, I feel comfortable and can read books." },
+  { "word": "feel comfortable and relaxed", "vietnamese": "cảm thấy thoải mái và thư giãn", "example": "On the bus, I feel comfortable and can read books." },
   { "word": "have fewer accidents / be safer", "vietnamese": "ít tai nạn hơn / an toàn hơn", "example": "Travelling by train is safer and has fewer accidents." },
-  { "word": "vehicle", "vietnamese": "phương tiện giao thông", "example": "Motorbikes are the most common vehicle in Vietnam." },
-  { "word": "commute", "vietnamese": "đi lại hàng ngày (đến trường/cơ quan)", "example": "My daily commute takes about thirty minutes." },
-  { "word": "parking", "vietnamese": "đỗ xe / bãi đỗ xe", "example": "Finding parking in the city centre is very difficult." },
-  { "word": "safe / safety", "vietnamese": "an toàn", "example": "Always wear a helmet for your safety." }
+  { "word": "run slowly / be in bad conditions", "vietnamese": "chạy chậm / trong tình trạng xấu", "example": "Public buses run slowly because the roads are in bad conditions." }
 ]

@@ -1,16 +1,11 @@
 [
-  { "word": "eat healthy food", "vietnamese": "ăn thực phẩm lành mạnh", "example": "We should eat more fruits, vegetables, and fish." },
-  { "word": "exercise regularly", "vietnamese": "tập thể dục thường xuyên", "example": "Exercising regularly keeps you strong and fit." },
-  { "word": "stay healthy / keep fit", "vietnamese": "giữ sức khỏe / giữ dáng", "example": "Exercise helps us stay healthy and keep fit." },
-  { "word": "have a balanced diet", "vietnamese": "có chế độ ăn cân bằng", "example": "A balanced diet includes vegetables, fruit, and protein." },
-  { "word": "have a regular health check-up", "vietnamese": "khám sức khỏe định kỳ", "example": "Visit a doctor regularly to find out any diseases soon." },
+  { "word": "eat healthy food", "vietnamese": "ăn thực phẩm lành mạnh", "example": "I eat more fruits, vegetables, and fish every day." },
+  { "word": "exercise regularly", "vietnamese": "tập thể dục thường xuyên", "example": "I exercise regularly to stay strong and fit." },
+  { "word": "stay healthy / keep fit", "vietnamese": "giữ sức khỏe / giữ dáng", "example": "Exercise helps me stay healthy and keep fit." },
+  { "word": "have a balanced diet", "vietnamese": "có chế độ ăn cân bằng", "example": "I have a balanced diet with vegetables, fruit, and protein." },
+  { "word": "have a regular health check-up", "vietnamese": "khám sức khỏe định kỳ", "example": "I have a regular health check-up to find diseases soon." },
   { "word": "increase the risk of + disease", "vietnamese": "tăng nguy cơ mắc bệnh", "example": "Eating junk food increases the risk of obesity." },
-  { "word": "be good / bad for health", "vietnamese": "tốt / xấu cho sức khỏe", "example": "Smoking is very bad for your health." },
   { "word": "eat less junk food / fast food", "vietnamese": "ăn ít đồ ăn nhanh", "example": "We should eat less junk food and more vegetables." },
   { "word": "reduce stress", "vietnamese": "giảm căng thẳng", "example": "Exercise helps reduce stress effectively." },
-  { "word": "disease / illness", "vietnamese": "bệnh tật", "example": "Heart disease is a leading cause of death worldwide." },
-  { "word": "mental health", "vietnamese": "sức khỏe tâm thần", "example": "Taking breaks helps improve your mental health." },
-  { "word": "immune system", "vietnamese": "hệ miễn dịch", "example": "Eating well helps strengthen your immune system." },
-  { "word": "nutrition", "vietnamese": "dinh dưỡng", "example": "Good nutrition is important for children's growth." },
-  { "word": "obesity", "vietnamese": "béo phì", "example": "Obesity is caused by unhealthy eating habits." }
+  { "word": "be good / bad for health", "vietnamese": "tốt / xấu cho sức khỏe", "example": "Smoking is very bad for your health." }
 ]

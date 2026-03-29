@@ -1,16 +1,10 @@
 [
-  { "word": "go on a trip / holiday", "vietnamese": "đi du lịch / đi nghỉ", "example": "We went on a trip to Da Nang last summer." },
-  { "word": "the scenery is beautiful / magnificent", "vietnamese": "phong cảnh đẹp / hùng vĩ", "example": "The scenery in Ha Long Bay is breathtaking." },
-  { "word": "the local cuisine is delicious", "vietnamese": "ẩm thực địa phương ngon", "example": "The local cuisine is fresh, delicious, and not expensive." },
-  { "word": "experience local culture", "vietnamese": "trải nghiệm văn hóa địa phương", "example": "I always try to experience local culture when I travel." },
+  { "word": "go on a trip / holiday", "vietnamese": "đi du lịch / đi nghỉ", "example": "We go on a trip to Da Nang every summer." },
   { "word": "book accommodation / a hotel", "vietnamese": "đặt chỗ ở / đặt phòng", "example": "I booked a hotel room near the beach online." },
-  { "word": "celebrate a festival", "vietnamese": "tổ chức / tham gia lễ hội", "example": "We celebrate Tet with the whole family every year." },
-  { "word": "family reunion", "vietnamese": "đoàn tụ gia đình", "example": "Tet is a special time for family reunions." },
+  { "word": "experience local culture", "vietnamese": "trải nghiệm văn hóa địa phương", "example": "I always try to experience local culture when travelling." },
   { "word": "buy souvenirs", "vietnamese": "mua quà lưu niệm", "example": "I bought some souvenirs for my family and friends." },
-  { "word": "have a memorable experience", "vietnamese": "có trải nghiệm đáng nhớ", "example": "That trip was a very memorable experience for me." },
-  { "word": "destination", "vietnamese": "điểm đến", "example": "My dream destination is Japan." },
-  { "word": "tourist", "vietnamese": "khách du lịch", "example": "Hoi An attracts many tourists every year." },
-  { "word": "tradition / traditional", "vietnamese": "truyền thống", "example": "Giving lucky money is a Vietnamese tradition during Tet." },
-  { "word": "sightseeing", "vietnamese": "tham quan, ngắm cảnh", "example": "We spent the whole day sightseeing in the old town." },
-  { "word": "weather / climate", "vietnamese": "thời tiết / khí hậu", "example": "Check the weather forecast before travelling." }
+  { "word": "celebrate a festival", "vietnamese": "tổ chức / tham gia lễ hội", "example": "We celebrate Tet with the whole family every year." },
+  { "word": "have a memorable experience", "vietnamese": "có trải nghiệm đáng nhớ", "example": "That trip gave me a very memorable experience." },
+  { "word": "enjoy the breathtaking scenery", "vietnamese": "ngắm phong cảnh ngoạn mục", "example": "We enjoyed the breathtaking scenery of mountains and rivers." },
+  { "word": "try the local cuisine", "vietnamese": "thử ẩm thực địa phương", "example": "I tried the local cuisine — it was fresh and delicious." }
 ]

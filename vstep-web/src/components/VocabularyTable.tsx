@@ -9,9 +9,10 @@ interface VocabEntry {
 interface VocabularyTableProps {
   topic: string;
   data: VocabEntry[];
+  wordLabel?: string;
 }
 
-export default function VocabularyTable({ topic, data }: VocabularyTableProps) {
+export default function VocabularyTable({ topic, data, wordLabel = 'Từ / Cụm từ' }: VocabularyTableProps) {
   const [filter, setFilter] = useState('');
 
   const filtered = data.filter(
@@ -22,7 +23,7 @@ export default function VocabularyTable({ topic, data }: VocabularyTableProps) {
 
   return (
     <div className="my-4">
-      <h3 className="mb-2 text-lg font-bold">{topic}</h3>
+      {topic && <h3 className="mb-2 text-lg font-bold">{topic}</h3>}
       <input
         type="text"
         placeholder="Tìm từ..."
@@ -33,7 +34,7 @@ export default function VocabularyTable({ topic, data }: VocabularyTableProps) {
       <table className="w-full text-sm">
         <thead>
           <tr className="border-b border-gray-200 dark:border-gray-700">
-            <th className="px-2 py-2 text-left font-semibold">Từ / Cụm từ</th>
+            <th className="px-2 py-2 text-left font-semibold">{wordLabel}</th>
             <th className="px-2 py-2 text-left font-semibold">Nghĩa</th>
             <th className="px-2 py-2 text-left font-semibold">Ví dụ</th>
           </tr>

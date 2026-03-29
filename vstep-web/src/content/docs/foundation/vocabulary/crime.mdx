@@ -4,6 +4,13 @@ description: Cụm từ và từ vựng chủ đề tội phạm cho VSTEP B1
 ---
 
 import VocabularyTable from '@components/VocabularyTable';
-import data from '@data/vocabulary/crime.json';
+import phrases from '@data/vocabulary/crime.json';
+import vocab from '@data/vocabulary/crime-vocab.json';
 
-<VocabularyTable client:load topic="Tội phạm (Crime)" data={data} />
+## Cụm từ — thêm chủ ngữ (I, We, It...) phía trước = câu hoàn chỉnh
+
+<VocabularyTable client:load topic="" data={phrases} wordLabel="Cụm từ (V + O)" />
+
+## Từ vựng tham khảo
+
+<VocabularyTable client:load topic="" data={vocab} wordLabel="Từ vựng" />

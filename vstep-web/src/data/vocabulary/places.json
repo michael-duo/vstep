@@ -1,16 +1,10 @@
 [
   { "word": "be located in + place", "vietnamese": "nằm ở, tọa lạc tại", "example": "My city is located in the south of Vietnam." },
-  { "word": "the cost of living is high / low", "vietnamese": "chi phí sinh hoạt cao / thấp", "example": "The cost of living in the city is quite expensive." },
-  { "word": "people are friendly and helpful", "vietnamese": "mọi người thân thiện và hay giúp đỡ", "example": "People in my hometown are very friendly and helpful." },
-  { "word": "the environment is clean / polluted", "vietnamese": "môi trường sạch / ô nhiễm", "example": "The city environment is heavily polluted." },
   { "word": "be convenient for + N/V-ing", "vietnamese": "tiện lợi cho...", "example": "Living here is very convenient for students." },
-  { "word": "have more career opportunities", "vietnamese": "có nhiều cơ hội nghề nghiệp", "example": "City life has more career opportunities than the countryside." },
-  { "word": "enjoy the fresh and clean air", "vietnamese": "tận hưởng không khí trong lành", "example": "In the countryside, we can enjoy the fresh and clean air." },
+  { "word": "have more career opportunities", "vietnamese": "có nhiều cơ hội nghề nghiệp", "example": "City life has more career opportunities." },
   { "word": "have many entertainments", "vietnamese": "có nhiều nơi giải trí", "example": "The city has many entertainments like cinemas and parks." },
-  { "word": "live near hospitals, schools", "vietnamese": "sống gần bệnh viện, trường học", "example": "City life is convenient — we live near hospitals and schools." },
-  { "word": "peaceful / quiet", "vietnamese": "yên tĩnh, bình yên", "example": "My hometown is very peaceful and quiet." },
-  { "word": "crowded", "vietnamese": "đông đúc", "example": "The city centre is very crowded on weekends." },
-  { "word": "spacious / cramped", "vietnamese": "rộng rãi / chật chội", "example": "Our living room is spacious but the bedroom is a bit cramped." },
-  { "word": "neighbourhood", "vietnamese": "khu dân cư, khu vực xung quanh", "example": "We live in a safe and friendly neighbourhood." },
-  { "word": "develop / development", "vietnamese": "phát triển / sự phát triển", "example": "My city has developed a lot in recent years." }
+  { "word": "live near hospitals, schools", "vietnamese": "sống gần bệnh viện, trường học", "example": "We live near hospitals, schools, and supermarkets." },
+  { "word": "enjoy the fresh and clean air", "vietnamese": "tận hưởng không khí trong lành", "example": "In the countryside, we enjoy the fresh and clean air." },
+  { "word": "bring sb a clean environment", "vietnamese": "mang lại môi trường sạch", "example": "The countryside brings me a clean and quiet environment." },
+  { "word": "save a lot of money", "vietnamese": "tiết kiệm nhiều tiền", "example": "The cost of living is cheap, so I save a lot of money." }
 ]

@@ -4,8 +4,13 @@ description: Cụm từ và từ vựng chủ đề nơi chốn (thành phố, q
 ---
 
 import VocabularyTable from '@components/VocabularyTable';
-import data from '@data/vocabulary/places.json';
+import phrases from '@data/vocabulary/places.json';
+import vocab from '@data/vocabulary/places-vocab.json';
 
-Gom từ: Hometown, Housing, Environment, City / Countryside.
+## Cụm từ — thêm chủ ngữ (I, We, It...) phía trước = câu hoàn chỉnh
 
-<VocabularyTable client:load topic="Nơi chốn (Places)" data={data} />
+<VocabularyTable client:load topic="" data={phrases} wordLabel="Cụm từ (V + O)" />
+
+## Từ vựng tham khảo
+
+<VocabularyTable client:load topic="" data={vocab} wordLabel="Từ vựng" />

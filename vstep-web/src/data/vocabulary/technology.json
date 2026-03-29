@@ -1,16 +1,10 @@
 [
-  { "word": "shop / study / work online", "vietnamese": "mua sắm / học / làm việc trực tuyến", "example": "Shopping online is very convenient and saves time." },
-  { "word": "social media / social network", "vietnamese": "mạng xã hội", "example": "Facebook and Instagram are popular social networks." },
-  { "word": "search for information online", "vietnamese": "tìm kiếm thông tin trên mạng", "example": "We use the internet to search for information quickly." },
-  { "word": "perform faster and more efficiently", "vietnamese": "thực hiện nhanh và hiệu quả hơn", "example": "Technology helps us perform tasks faster and more efficiently." },
-  { "word": "have less social interactions", "vietnamese": "ít giao tiếp xã hội hơn", "example": "Using phones too much means we have less social interactions." },
+  { "word": "shop / study / work online", "vietnamese": "mua sắm / học / làm việc trực tuyến", "example": "I shop online because it is very convenient." },
+  { "word": "search for information online", "vietnamese": "tìm kiếm thông tin trên mạng", "example": "I search for information online every day." },
+  { "word": "perform faster and more efficiently", "vietnamese": "thực hiện nhanh và hiệu quả hơn", "example": "Computers help us perform tasks faster and more efficiently." },
+  { "word": "have less social interactions", "vietnamese": "ít giao tiếp xã hội hơn", "example": "Using phones too much makes people have less social interactions." },
   { "word": "depend too much on technology", "vietnamese": "phụ thuộc quá nhiều vào công nghệ", "example": "People depend too much on technology nowadays." },
-  { "word": "make people lazier", "vietnamese": "khiến người ta lười hơn", "example": "Technology can make people lazier — they refuse to do tasks by hand." },
+  { "word": "make people lazier", "vietnamese": "khiến người ta lười hơn", "example": "Technology makes people lazier — they refuse to do tasks by hand." },
   { "word": "spend too much time on screens", "vietnamese": "dành quá nhiều thời gian nhìn màn hình", "example": "Children spend too much time on screens every day." },
-  { "word": "protect your privacy online", "vietnamese": "bảo vệ quyền riêng tư trên mạng", "example": "It is important to protect your privacy online." },
-  { "word": "device", "vietnamese": "thiết bị", "example": "A smartphone is the most commonly used device today." },
-  { "word": "application / app", "vietnamese": "ứng dụng", "example": "There are apps for almost everything now." },
-  { "word": "download / upload", "vietnamese": "tải xuống / tải lên", "example": "I downloaded a new learning app on my phone." },
-  { "word": "password", "vietnamese": "mật khẩu", "example": "Always use a strong password for your accounts." },
-  { "word": "cyberbullying", "vietnamese": "bắt nạt trên mạng", "example": "Cyberbullying is a serious problem among teenagers." }
+  { "word": "protect your privacy online", "vietnamese": "bảo vệ quyền riêng tư trên mạng", "example": "We should protect our privacy online carefully." }
 ]
