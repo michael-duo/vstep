@@ -10,6 +10,8 @@ npm run build     # Production build → ./dist/ (also runs Pagefind search inde
 npm run preview   # Preview production build
 ```
 
+Deploy: Cloudflare Pages (`wrangler.toml`). Build output goes to `./dist/`.
+
 Package manager: pnpm (pnpm-lock.yaml), but npm scripts work fine.
 
 ## Architecture
@@ -40,6 +42,7 @@ Package manager: pnpm (pnpm-lock.yaml), but npm scripts work fine.
 - `@data/*` → `src/data/*`
 
 ### Styling
+- Mermaid diagrams supported in MDX via `rehype-mermaid`
 - Tailwind CSS v4 via `@tailwindcss/vite` plugin
 - Global CSS: `src/styles/global.css` — defines Tailwind layers + color-coded annotation classes (`.linking` blue, `.structure` green, `.vocab` orange)
 - Dark mode handled by Starlight automatically
