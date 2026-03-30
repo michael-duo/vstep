@@ -1,11 +1,7 @@
 [
-  { "word": "spend free time + V-ing", "vietnamese": "dành thời gian rảnh để...", "example": "I spend my free time playing football with friends." },
-  { "word": "be interested in + N/V-ing", "vietnamese": "thích, quan tâm đến", "example": "I am interested in photography and travelling." },
-  { "word": "take part in + N", "vietnamese": "tham gia", "example": "I take part in a football club at school." },
-  { "word": "bring happiness to sb", "vietnamese": "mang lại hạnh phúc cho ai", "example": "This hobby brings happiness to me and my family." },
-  { "word": "make sb relaxed / feel happier", "vietnamese": "khiến ai thư giãn / vui hơn", "example": "Playing sports makes me relaxed after a long day." },
-  { "word": "reduce the stress of + N", "vietnamese": "giảm căng thẳng từ...", "example": "Music helps reduce the stress of everyday hard work." },
-  { "word": "broaden my knowledge", "vietnamese": "mở rộng kiến thức", "example": "Reading books broadens my knowledge about the world." },
-  { "word": "develop imagination and creativity", "vietnamese": "phát triển trí tưởng tượng và sáng tạo", "example": "Drawing develops imagination and creativity." },
-  { "word": "be a good way to + V", "vietnamese": "là cách tốt để...", "example": "Swimming is a good way to keep fit and stay healthy." }
+  { "word": "bring happiness", "vietnamese": "mang lại hạnh phúc", "example": "This hobby brings happiness to me and my family.", "synonyms": "bring joy" },
+  { "word": "make me relaxed", "vietnamese": "khiến tôi thư giãn", "example": "Playing sports makes me relaxed after a long day.", "synonyms": "help me relax, make me feel happier" },
+  { "word": "reduce stress", "vietnamese": "giảm căng thẳng", "example": "Music helps me reduce stress.", "synonyms": "relieve stress" },
+  { "word": "develop my knowledge", "vietnamese": "phát triển kiến thức", "example": "Reading books develops my knowledge about the world.", "synonyms": "broaden my knowledge, expand my knowledge" },
+  { "word": "develop imagination and creativity", "vietnamese": "phát triển trí tưởng tượng và sáng tạo", "example": "Drawing develops imagination and creativity." }
 ]

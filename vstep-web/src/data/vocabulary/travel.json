@@ -1,10 +1,10 @@
 [
   { "word": "go on a trip / holiday", "vietnamese": "đi du lịch / đi nghỉ", "example": "We go on a trip to Da Nang every summer." },
   { "word": "book accommodation / a hotel", "vietnamese": "đặt chỗ ở / đặt phòng", "example": "I booked a hotel room near the beach online." },
-  { "word": "experience local culture", "vietnamese": "trải nghiệm văn hóa địa phương", "example": "I always try to experience local culture when travelling." },
+  { "word": "experience local culture", "vietnamese": "trải nghiệm văn hóa địa phương", "example": "I always try to experience local culture when travelling.", "synonyms": "learn about local culture" },
   { "word": "buy souvenirs", "vietnamese": "mua quà lưu niệm", "example": "I bought some souvenirs for my family and friends." },
   { "word": "celebrate a festival", "vietnamese": "tổ chức / tham gia lễ hội", "example": "We celebrate Tet with the whole family every year." },
-  { "word": "have a memorable experience", "vietnamese": "có trải nghiệm đáng nhớ", "example": "That trip gave me a very memorable experience." },
-  { "word": "enjoy the breathtaking scenery", "vietnamese": "ngắm phong cảnh ngoạn mục", "example": "We enjoyed the breathtaking scenery of mountains and rivers." },
-  { "word": "try the local cuisine", "vietnamese": "thử ẩm thực địa phương", "example": "I tried the local cuisine — it was fresh and delicious." }
+  { "word": "have a memorable experience", "vietnamese": "có trải nghiệm đáng nhớ", "example": "That trip gave me a very memorable experience.", "synonyms": "have an unforgettable experience" },
+  { "word": "enjoy the beautiful scenery", "vietnamese": "ngắm phong cảnh đẹp", "example": "We enjoyed the beautiful scenery of mountains and rivers.", "synonyms": "enjoy the breathtaking scenery" },
+  { "word": "try the local food", "vietnamese": "thử đồ ăn địa phương", "example": "I tried the local food — it was fresh and delicious.", "synonyms": "try the local cuisine" }
 ]

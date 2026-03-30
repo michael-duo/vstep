@@ -2,10 +2,9 @@
   { "word": "commit a crime", "vietnamese": "phạm tội", "example": "Poverty leads some people to commit crimes." },
   { "word": "break the law", "vietnamese": "vi phạm pháp luật", "example": "People who break the law should be punished." },
   { "word": "punish criminals", "vietnamese": "trừng phạt tội phạm", "example": "The government should punish those who commit crimes." },
-  { "word": "send sb to prison / a rehabilitation center", "vietnamese": "đưa ai vào tù / trung tâm cải tạo", "example": "We should send criminals to a rehabilitation center." },
   { "word": "spend more time with children", "vietnamese": "dành nhiều thời gian cho con cái", "example": "Parents should spend more time with children to guide them." },
   { "word": "get access to violent games", "vietnamese": "tiếp cận trò chơi bạo lực", "example": "Children easily get access to violent games on the internet." },
-  { "word": "copy bad things from the internet", "vietnamese": "bắt chước điều xấu trên mạng", "example": "Young people copy bad things they see online." },
-  { "word": "prevent crime", "vietnamese": "ngăn ngừa tội phạm", "example": "Education and good parenting can help prevent crime." },
+  { "word": "copy bad things from the internet", "vietnamese": "bắt chước điều xấu trên mạng", "example": "Young people copy bad things they see online.", "synonyms": "learn bad behavior online" },
+  { "word": "prevent crime", "vietnamese": "ngăn ngừa tội phạm", "example": "Education and good parenting can help prevent crime.", "synonyms": "reduce crime" },
   { "word": "get vocational training", "vietnamese": "được đào tạo nghề", "example": "Criminals can get vocational training to find a job later." }
 ]

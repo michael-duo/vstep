@@ -1,11 +1,10 @@
 [
   { "word": "eat healthy food", "vietnamese": "ăn thực phẩm lành mạnh", "example": "I eat more fruits, vegetables, and fish every day." },
-  { "word": "exercise regularly", "vietnamese": "tập thể dục thường xuyên", "example": "I exercise regularly to stay strong and fit." },
+  { "word": "exercise regularly", "vietnamese": "tập thể dục thường xuyên", "example": "I exercise regularly to stay strong and fit.", "synonyms": "work out regularly" },
   { "word": "stay healthy / keep fit", "vietnamese": "giữ sức khỏe / giữ dáng", "example": "Exercise helps me stay healthy and keep fit." },
   { "word": "have a balanced diet", "vietnamese": "có chế độ ăn cân bằng", "example": "I have a balanced diet with vegetables, fruit, and protein." },
   { "word": "have a regular health check-up", "vietnamese": "khám sức khỏe định kỳ", "example": "I have a regular health check-up to find diseases soon." },
-  { "word": "increase the risk of + disease", "vietnamese": "tăng nguy cơ mắc bệnh", "example": "Eating junk food increases the risk of obesity." },
   { "word": "eat less junk food / fast food", "vietnamese": "ăn ít đồ ăn nhanh", "example": "We should eat less junk food and more vegetables." },
-  { "word": "reduce stress", "vietnamese": "giảm căng thẳng", "example": "Exercise helps reduce stress effectively." },
-  { "word": "be good / bad for health", "vietnamese": "tốt / xấu cho sức khỏe", "example": "Smoking is very bad for your health." }
+  { "word": "reduce stress", "vietnamese": "giảm căng thẳng", "example": "Exercise helps reduce stress effectively.", "synonyms": "relieve stress" },
+  { "word": "(be) good / bad for health", "vietnamese": "tốt / xấu cho sức khỏe", "example": "Smoking is very bad for your health." }
 ]

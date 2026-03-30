@@ -1,10 +1,9 @@
 [
-  { "word": "go to school/work by + transport", "vietnamese": "đi học/làm bằng...", "example": "I go to school by bus every day." },
   { "word": "take the bus / train", "vietnamese": "đi xe buýt / tàu", "example": "I take the bus to school every morning." },
-  { "word": "travel on foot", "vietnamese": "đi bộ", "example": "I travel on foot when the weather is nice." },
-  { "word": "be convenient and fast", "vietnamese": "tiện lợi và nhanh", "example": "Motorbikes are convenient and fast in the city." },
-  { "word": "be crowded at rush hours", "vietnamese": "đông đúc vào giờ cao điểm", "example": "Buses are pretty crowded at rush hours." },
+  { "word": "travel on foot", "vietnamese": "đi bộ", "example": "I travel on foot when the weather is nice.", "synonyms": "walk" },
+  { "word": "(be) convenient and fast", "vietnamese": "tiện lợi và nhanh", "example": "Motorbikes are convenient and fast in the city.", "synonyms": "save time" },
+  { "word": "(be) crowded at rush hours", "vietnamese": "đông đúc vào giờ cao điểm", "example": "Buses are pretty crowded at rush hours." },
   { "word": "feel comfortable and relaxed", "vietnamese": "cảm thấy thoải mái và thư giãn", "example": "On the bus, I feel comfortable and can read books." },
-  { "word": "have fewer accidents / be safer", "vietnamese": "ít tai nạn hơn / an toàn hơn", "example": "Travelling by train is safer and has fewer accidents." },
-  { "word": "run slowly / be in bad conditions", "vietnamese": "chạy chậm / trong tình trạng xấu", "example": "Public buses run slowly because the roads are in bad conditions." }
+  { "word": "have fewer accidents / (be) safer", "vietnamese": "ít tai nạn hơn / an toàn hơn", "example": "Travelling by train is safer and has fewer accidents." },
+  { "word": "run slowly / (be) in bad conditions", "vietnamese": "chạy chậm / trong tình trạng xấu", "example": "Public buses run slowly because the roads are in bad conditions." }
 ]

@@ -1,12 +1,11 @@
 [
-  { "word": "study / learn + subject", "vietnamese": "học môn...", "example": "I study English for two hours every day." },
   { "word": "do homework / assignments", "vietnamese": "làm bài tập", "example": "I do homework every evening after school." },
-  { "word": "get good grades / marks", "vietnamese": "đạt điểm tốt", "example": "She always gets good grades in English." },
-  { "word": "make a presentation", "vietnamese": "thuyết trình", "example": "We need to make a presentation for next week." },
+  { "word": "get good grades / marks", "vietnamese": "đạt điểm tốt", "example": "She always gets good grades in English.", "synonyms": "achieve good results" },
+  { "word": "make a presentation", "vietnamese": "thuyết trình", "example": "We need to make a presentation for next week.", "synonyms": "give a presentation" },
   { "word": "join a club", "vietnamese": "tham gia câu lạc bộ", "example": "I joined the English club at school." },
-  { "word": "improve my skills", "vietnamese": "cải thiện kỹ năng", "example": "I want to improve my speaking skills." },
+  { "word": "improve my skills", "vietnamese": "cải thiện kỹ năng", "example": "I want to improve my speaking skills.", "synonyms": "develop my skills" },
   { "word": "manage time well", "vietnamese": "quản lý thời gian tốt", "example": "Good students know how to manage time well." },
   { "word": "graduate from university", "vietnamese": "tốt nghiệp đại học", "example": "She will graduate from university this year." },
-  { "word": "gain / broaden knowledge", "vietnamese": "thu nạp / mở rộng kiến thức", "example": "Reading books helps us gain knowledge." },
+  { "word": "gain knowledge", "vietnamese": "thu nạp kiến thức", "example": "Reading books helps us gain knowledge.", "synonyms": "broaden knowledge, develop knowledge" },
   { "word": "meet the deadline", "vietnamese": "hoàn thành đúng hạn", "example": "I always try to meet my deadlines." }
 ]

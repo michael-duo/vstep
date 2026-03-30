@@ -4,7 +4,9 @@ description: Cụm từ và từ vựng chủ đề sức khỏe cho VSTEP B1
 ---
 
 import VocabularyTable from "@components/VocabularyTable";
+import TierContent from "@components/TierContent";
 import phrases from "@data/vocabulary/health.json";
+import advanced from "@data/vocabulary/health-advanced.json";
 import vocab from "@data/vocabulary/health-vocab.json";
 
 ## Cụm từ
@@ -15,6 +17,15 @@ import vocab from "@data/vocabulary/health-vocab.json";
   data={phrases}
   wordLabel="Cụm từ (V + O)"
 />
+
+<TierContent client:load title="Cụm từ nâng cao (tham khảo thêm)">
+  <VocabularyTable
+    client:load
+    topic=""
+    data={advanced}
+    wordLabel="Cụm từ / Cấu trúc"
+  />
+</TierContent>
 
 ## Từ vựng tham khảo
 

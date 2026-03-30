@@ -1,10 +1,7 @@
 [
-  { "word": "work as a/an + job", "vietnamese": "làm nghề...", "example": "I work as an accountant for a company." },
-  { "word": "be in charge of + N/V-ing", "vietnamese": "phụ trách, chịu trách nhiệm", "example": "I am in charge of working with clients." },
   { "word": "do part-time jobs", "vietnamese": "làm việc bán thời gian", "example": "I do part-time jobs at the weekends." },
   { "word": "apply for a job", "vietnamese": "nộp đơn xin việc", "example": "I applied for a job at a local hospital." },
-  { "word": "have opportunities for promotion", "vietnamese": "có cơ hội thăng tiến", "example": "This company has good opportunities for promotion." },
+  { "word": "have opportunities for promotion", "vietnamese": "có cơ hội thăng tiến", "example": "This company has good opportunities for promotion.", "synonyms": "have chances to get promoted" },
   { "word": "work overtime", "vietnamese": "làm thêm giờ", "example": "Sometimes I have to work overtime and feel tired." },
-  { "word": "collaborate with + sb", "vietnamese": "hợp tác với ai", "example": "I collaborate with other departments to run the business." },
-  { "word": "apply knowledge and skills", "vietnamese": "áp dụng kiến thức và kỹ năng", "example": "I can apply the knowledge I studied in my work." }
+  { "word": "apply knowledge and skills", "vietnamese": "áp dụng kiến thức và kỹ năng", "example": "I can apply the knowledge I studied in my work.", "synonyms": "use knowledge and skills" }
 ]

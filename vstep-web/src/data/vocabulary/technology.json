@@ -1,6 +1,6 @@
 [
   { "word": "shop / study / work online", "vietnamese": "mua sắm / học / làm việc trực tuyến", "example": "I shop online because it is very convenient." },
-  { "word": "search for information online", "vietnamese": "tìm kiếm thông tin trên mạng", "example": "I search for information online every day." },
+  { "word": "search for information online", "vietnamese": "tìm kiếm thông tin trên mạng", "example": "I search for information online every day.", "synonyms": "look for information online" },
   { "word": "perform faster and more efficiently", "vietnamese": "thực hiện nhanh và hiệu quả hơn", "example": "Computers help us perform tasks faster and more efficiently." },
   { "word": "have less social interactions", "vietnamese": "ít giao tiếp xã hội hơn", "example": "Using phones too much makes people have less social interactions." },
   { "word": "depend too much on technology", "vietnamese": "phụ thuộc quá nhiều vào công nghệ", "example": "People depend too much on technology nowadays." },

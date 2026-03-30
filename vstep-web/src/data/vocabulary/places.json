@@ -1,10 +1,8 @@
 [
-  { "word": "be located in + place", "vietnamese": "nằm ở, tọa lạc tại", "example": "My city is located in the south of Vietnam." },
-  { "word": "be convenient for + N/V-ing", "vietnamese": "tiện lợi cho...", "example": "Living here is very convenient for students." },
-  { "word": "have more career opportunities", "vietnamese": "có nhiều cơ hội nghề nghiệp", "example": "City life has more career opportunities." },
+  { "word": "have more career opportunities", "vietnamese": "có nhiều cơ hội nghề nghiệp", "example": "City life has more career opportunities.", "synonyms": "have more job opportunities" },
   { "word": "have many entertainments", "vietnamese": "có nhiều nơi giải trí", "example": "The city has many entertainments like cinemas and parks." },
   { "word": "live near hospitals, schools", "vietnamese": "sống gần bệnh viện, trường học", "example": "We live near hospitals, schools, and supermarkets." },
   { "word": "enjoy the fresh and clean air", "vietnamese": "tận hưởng không khí trong lành", "example": "In the countryside, we enjoy the fresh and clean air." },
-  { "word": "bring sb a clean environment", "vietnamese": "mang lại môi trường sạch", "example": "The countryside brings me a clean and quiet environment." },
+  { "word": "bring a clean environment", "vietnamese": "mang lại môi trường sạch", "example": "The countryside brings me a clean and quiet environment." },
   { "word": "save a lot of money", "vietnamese": "tiết kiệm nhiều tiền", "example": "The cost of living is cheap, so I save a lot of money." }
 ]

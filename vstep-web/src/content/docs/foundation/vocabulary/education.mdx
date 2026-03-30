@@ -4,7 +4,9 @@ description: Cụm từ và từ vựng chủ đề giáo dục, học tập cho
 ---
 
 import VocabularyTable from "@components/VocabularyTable";
+import TierContent from "@components/TierContent";
 import phrases from "@data/vocabulary/education.json";
+import advanced from "@data/vocabulary/education-advanced.json";
 import vocab from "@data/vocabulary/education-vocab.json";
 
 ## Cụm từ
@@ -15,6 +17,15 @@ import vocab from "@data/vocabulary/education-vocab.json";
   data={phrases}
   wordLabel="Cụm từ (V + O)"
 />
+
+<TierContent client:load title="Cụm từ nâng cao (tham khảo thêm)">
+  <VocabularyTable
+    client:load
+    topic=""
+    data={advanced}
+    wordLabel="Cụm từ / Cấu trúc"
+  />
+</TierContent>
 
 ## Từ vựng tham khảo
 
