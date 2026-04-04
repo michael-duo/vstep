@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect, type ReactNode } from 'react';
+import { createPortal } from 'react-dom';
 import knowledgeData from '@data/foundation-knowledge.json';
 
 interface KnowledgeLinkProps {
@@ -18,9 +19,14 @@ const data = knowledgeData as Record<string, KnowledgeItem>;
 
 export default function KnowledgeLink({ id, children }: KnowledgeLinkProps) {
   const [isOpen, setIsOpen] = useState(false);
+  const [isMounted, setIsMounted] = useState(false);
   const dialogRef = useRef<HTMLDialogElement>(null);
 
   const item = data[id];
+
+  useEffect(() => {
+    setIsMounted(true);
+  }, []);
 
   useEffect(() => {
     if (isOpen && dialogRef.current) {
@@ -57,51 +63,54 @@ export default function KnowledgeLink({ id, children }: KnowledgeLinkProps) {
         {children}
       </span>
 
-      <dialog
-        ref={dialogRef}
-        onClose={() => setIsOpen(false)}
-        onClick={(e) => {
-          if (e.target === dialogRef.current) setIsOpen(false);
-        }}
-        className="m-auto w-full max-w-md rounded-xl border border-gray-200 bg-white p-0 shadow-xl backdrop:bg-black/50 dark:border-gray-700 dark:bg-gray-900"
-      >
-        <div className="p-5">
-          <div className="mb-3 flex items-center justify-between">
-            <span
-              className={`rounded-full px-3 py-1 text-xs font-medium ${typeColor}`}
-            >
-              {item.type}
-            </span>
-            <button
-              onClick={() => setIsOpen(false)}
-              className="text-2xl leading-none text-gray-400 hover:text-gray-600 dark:hover:text-gray-200"
-            >
-              &times;
-            </button>
-          </div>
+      {isMounted && createPortal(
+        <dialog
+          ref={dialogRef}
+          onClose={() => setIsOpen(false)}
+          onClick={(e) => {
+            if (e.target === dialogRef.current) setIsOpen(false);
+          }}
+          className="m-auto w-full max-w-md rounded-xl border border-gray-200 bg-white p-0 shadow-xl backdrop:bg-black/50 dark:border-gray-700 dark:bg-gray-900"
+        >
+          <div className="p-5">
+            <div className="mb-3 flex items-center justify-between">
+              <span
+                className={`rounded-full px-3 py-1 text-xs font-medium ${typeColor}`}
+              >
+                {item.type}
+              </span>
+              <button
+                onClick={() => setIsOpen(false)}
+                className="text-2xl leading-none text-gray-400 hover:text-gray-600 dark:hover:text-gray-200"
+              >
+                &times;
+              </button>
+            </div>
 
-          <h3 className="mb-2 text-lg font-bold text-gray-900 dark:text-gray-100">
-            {item.title}
-          </h3>
+            <h3 className="mb-2 text-lg font-bold text-gray-900 dark:text-gray-100">
+              {item.title}
+            </h3>
 
-          <p className="mb-3 text-sm text-gray-600 dark:text-gray-400">
-            {item.meaning}
-          </p>
-
-          <div className="mb-4 rounded-lg bg-gray-50 p-3 dark:bg-gray-800">
-            <p className="text-sm italic text-gray-700 dark:text-gray-300">
-              {item.example}
+            <p className="mb-3 text-sm text-gray-600 dark:text-gray-400">
+              {item.meaning}
             </p>
-          </div>
 
-          <a
-            href={item.page}
-            className="text-sm font-medium text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
-          >
-            Xem thêm &rarr;
-          </a>
-        </div>
-      </dialog>
+            <div className="mb-4 rounded-lg bg-gray-50 p-3 dark:bg-gray-800">
+              <p className="text-sm italic text-gray-700 dark:text-gray-300">
+                {item.example}
+              </p>
+            </div>
+
+            <a
+              href={item.page}
+              className="text-sm font-medium text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
+            >
+              Xem thêm &rarr;
+            </a>
+          </div>
+        </dialog>,
+        document.body
+      )}
     </>
   );
 }
