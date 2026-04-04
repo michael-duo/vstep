@@ -55,36 +55,42 @@ export default defineConfig({
               ],
             },
             {
-              label: "Từ vựng theo chủ đề — bổ sung",
+              label: "Từ vựng theo chủ đề",
               items: [
                 {
-                  slug: "foundation/vocabulary",
-                  label: "Tổng quan & Cách ghép",
+                  slug: "foundation/vocabulary/hobbies",
+                  label: "Hobbies / Interests",
+                },
+                {
+                  slug: "foundation/vocabulary/education",
+                  label: "Education / Study",
+                },
+                { slug: "foundation/vocabulary/jobs", label: "Jobs" },
+                { slug: "foundation/vocabulary/health", label: "Health" },
+                {
+                  slug: "foundation/vocabulary/transportation",
+                  label: "Transportation",
+                },
+                {
+                  slug: "foundation/vocabulary/environment",
+                  label: "Environment",
+                },
+                {
+                  slug: "foundation/vocabulary/technology",
+                  label: "Technology",
                 },
                 {
                   slug: "foundation/vocabulary/travel",
                   label: "Travel / Holiday",
                 },
                 {
-                  slug: "foundation/vocabulary/education",
-                  label: "Education / Study",
+                  slug: "foundation/vocabulary/places",
+                  label: "Places (nâng cao)",
                 },
                 {
-                  slug: "foundation/vocabulary/hobbies",
-                  label: "Hobbies / Interests",
+                  slug: "foundation/vocabulary/crime",
+                  label: "Crime (nâng cao)",
                 },
-                {
-                  slug: "foundation/vocabulary/technology",
-                  label: "Technology",
-                },
-                { slug: "foundation/vocabulary/places", label: "Places" },
-                {
-                  slug: "foundation/vocabulary/transportation",
-                  label: "Transportation",
-                },
-                { slug: "foundation/vocabulary/health", label: "Health" },
-                { slug: "foundation/vocabulary/jobs", label: "Jobs" },
-                { slug: "foundation/vocabulary/crime", label: "Crime" },
               ],
             },
           ],
@@ -92,7 +98,6 @@ export default defineConfig({
         {
           label: "🗣️ Speaking",
           items: [
-            { slug: "speaking/universal-ideas", label: "10 ý vạn năng" },
             { slug: "speaking/part-1", label: "Part 1: Hỏi đáp xã hội" },
             { slug: "speaking/part-2", label: "Part 2: Thảo luận tình huống" },
             { slug: "speaking/part-3", label: "Part 3: Trình bày quan điểm" },

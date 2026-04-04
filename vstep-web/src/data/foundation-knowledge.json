@@ -1,0 +1,278 @@
+{
+  "s-1": {
+    "type": "Cấu trúc vạn năng",
+    "title": "It makes me / helps me + V",
+    "meaning": "Nó khiến tôi / giúp tôi làm gì",
+    "example": "It helps me reduce stress after a long day.",
+    "page": "/foundation/universal-structures/"
+  },
+  "s-2": {
+    "type": "Cấu trúc vạn năng",
+    "title": "It is a good / effective way to + V",
+    "meaning": "Đây là một cách tốt để làm gì",
+    "example": "Reading is an effective way to broaden my knowledge.",
+    "page": "/foundation/universal-structures/"
+  },
+  "s-3": {
+    "type": "Cấu trúc vạn năng",
+    "title": "I find it + adj + to + V",
+    "meaning": "Tôi thấy thật (như thế nào) để làm gì",
+    "example": "I find it comfortable to live in Dalat.",
+    "page": "/foundation/universal-structures/"
+  },
+  "s-4": {
+    "type": "Cấu trúc vạn năng",
+    "title": "It is + adj + for sb + to + V",
+    "meaning": "Thật (như thế nào) cho ai đó để làm gì",
+    "example": "It is important for students to learn English.",
+    "page": "/foundation/universal-structures/"
+  },
+  "s-5": {
+    "type": "Cấu trúc vạn năng",
+    "title": "Thanks to A, I can...",
+    "meaning": "Nhờ có A, tôi có thể...",
+    "example": "Thanks to my smartphone, I can connect with friends.",
+    "page": "/foundation/universal-structures/"
+  },
+  "s-6": {
+    "type": "Cấu trúc vạn năng",
+    "title": "The thing I like most about... is...",
+    "meaning": "Điều tôi thích nhất về ... là ...",
+    "example": "The thing I like most about travelling is discovering new cultures.",
+    "page": "/foundation/universal-structures/"
+  },
+  "s-7": {
+    "type": "Cấu trúc vạn năng",
+    "title": "Nối bằng and, but, so, or",
+    "meaning": "Ghép 2 câu đơn bằng từ nối",
+    "example": "I wanted to go out, but it rained heavily.",
+    "page": "/foundation/universal-structures/"
+  },
+  "s-8": {
+    "type": "Cấu trúc vạn năng",
+    "title": "Mệnh đề thời gian: when, before, after",
+    "meaning": "Thêm mệnh đề thời gian vào câu",
+    "example": "When I get home, I always check my phone.",
+    "page": "/foundation/universal-structures/"
+  },
+  "s-9": {
+    "type": "Cấu trúc vạn năng",
+    "title": "If + hiện tại, will + V",
+    "meaning": "Câu điều kiện — điều có thể xảy ra",
+    "example": "If you exercise regularly, you will stay healthy.",
+    "page": "/foundation/universal-structures/"
+  },
+
+  "p-increase": {
+    "type": "Cụm từ vạn năng",
+    "title": "increase + N",
+    "meaning": "tăng",
+    "example": "Travelling increases our knowledge about the world.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "p-reduce": {
+    "type": "Cụm từ vạn năng",
+    "title": "reduce + N",
+    "meaning": "giảm",
+    "example": "Exercise helps reduce stress effectively.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "p-improve": {
+    "type": "Cụm từ vạn năng",
+    "title": "improve + N",
+    "meaning": "cải thiện",
+    "example": "I want to improve my English skills.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "p-cause": {
+    "type": "Cụm từ vạn năng",
+    "title": "cause + N",
+    "meaning": "gây ra",
+    "example": "Factories cause serious air pollution.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "p-lead-to": {
+    "type": "Cụm từ vạn năng",
+    "title": "lead to + N",
+    "meaning": "dẫn đến",
+    "example": "Smoking leads to health problems.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "p-affect": {
+    "type": "Cụm từ vạn năng",
+    "title": "affect + N",
+    "meaning": "ảnh hưởng đến",
+    "example": "Pollution affects people's health.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "p-lack": {
+    "type": "Cụm từ vạn năng",
+    "title": "lack + N",
+    "meaning": "thiếu",
+    "example": "Many students lack confidence when speaking.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "p-solve": {
+    "type": "Cụm từ vạn năng",
+    "title": "solve + N",
+    "meaning": "giải quyết",
+    "example": "We need to solve the traffic problem.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "p-support": {
+    "type": "Cụm từ vạn năng",
+    "title": "support + N/sb",
+    "meaning": "hỗ trợ, ủng hộ",
+    "example": "He works hard to support his family.",
+    "page": "/foundation/universal-phrases/"
+  },
+
+  "c-first": {
+    "type": "Cụm từ kết nối",
+    "title": "first / firstly",
+    "meaning": "đầu tiên",
+    "example": "First, I wake up at six o'clock.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "c-then": {
+    "type": "Cụm từ kết nối",
+    "title": "then / next",
+    "meaning": "sau đó",
+    "example": "Then, I have breakfast.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "c-finally": {
+    "type": "Cụm từ kết nối",
+    "title": "finally",
+    "meaning": "cuối cùng",
+    "example": "Finally, I review my notes before bed.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "c-also": {
+    "type": "Cụm từ kết nối",
+    "title": "also",
+    "meaning": "cũng, ngoài ra",
+    "example": "I enjoy cooking. I also like gardening.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "c-besides": {
+    "type": "Cụm từ kết nối",
+    "title": "besides",
+    "meaning": "ngoài ra",
+    "example": "Besides studying, I work part-time.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "c-however": {
+    "type": "Cụm từ kết nối",
+    "title": "however",
+    "meaning": "tuy nhiên",
+    "example": "Fast food is cheap. However, it is not healthy.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "c-although": {
+    "type": "Cụm từ kết nối",
+    "title": "although",
+    "meaning": "mặc dù",
+    "example": "Although the weather was bad, we went out.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "c-because": {
+    "type": "Cụm từ kết nối",
+    "title": "because",
+    "meaning": "vì, bởi vì",
+    "example": "I exercise because it keeps me healthy.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "c-so": {
+    "type": "Cụm từ kết nối",
+    "title": "so",
+    "meaning": "vì vậy",
+    "example": "It rained heavily, so we stayed at home.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "c-for-example": {
+    "type": "Cụm từ kết nối",
+    "title": "for example",
+    "meaning": "ví dụ như",
+    "example": "I like outdoor activities. For example, I go hiking.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "c-moreover": {
+    "type": "Cụm từ kết nối",
+    "title": "moreover",
+    "meaning": "hơn nữa",
+    "example": "The city is beautiful. Moreover, it is very safe.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "c-in-conclusion": {
+    "type": "Cụm từ kết nối",
+    "title": "in conclusion",
+    "meaning": "kết luận lại",
+    "example": "In conclusion, technology has many benefits.",
+    "page": "/foundation/universal-phrases/"
+  },
+  "c-in-my-opinion": {
+    "type": "Cụm từ kết nối",
+    "title": "in my opinion",
+    "meaning": "theo ý kiến tôi",
+    "example": "In my opinion, family is the most important thing.",
+    "page": "/foundation/universal-phrases/"
+  },
+
+  "v-advantage": {
+    "type": "Từ vựng vạn năng",
+    "title": "advantage",
+    "meaning": "ưu điểm, lợi thế",
+    "example": "One advantage of living in a city is convenience.",
+    "page": "/foundation/universal-vocabulary/"
+  },
+  "v-disadvantage": {
+    "type": "Từ vựng vạn năng",
+    "title": "disadvantage",
+    "meaning": "nhược điểm, bất lợi",
+    "example": "The main disadvantage is the high cost of living.",
+    "page": "/foundation/universal-vocabulary/"
+  },
+  "v-benefit": {
+    "type": "Từ vựng vạn năng",
+    "title": "benefit",
+    "meaning": "lợi ích",
+    "example": "There are many benefits of regular exercise.",
+    "page": "/foundation/universal-vocabulary/"
+  },
+  "v-solution": {
+    "type": "Từ vựng vạn năng",
+    "title": "solution",
+    "meaning": "giải pháp",
+    "example": "Education is the best solution for reducing poverty.",
+    "page": "/foundation/universal-vocabulary/"
+  },
+  "v-important": {
+    "type": "Từ vựng vạn năng",
+    "title": "important",
+    "meaning": "quan trọng",
+    "example": "English is very important for my future career.",
+    "page": "/foundation/universal-vocabulary/"
+  },
+  "v-convenient": {
+    "type": "Từ vựng vạn năng",
+    "title": "convenient",
+    "meaning": "tiện lợi",
+    "example": "Shopping online is very convenient.",
+    "page": "/foundation/universal-vocabulary/"
+  },
+  "v-effective": {
+    "type": "Từ vựng vạn năng",
+    "title": "effective",
+    "meaning": "hiệu quả",
+    "example": "This is an effective way to improve your English.",
+    "page": "/foundation/universal-vocabulary/"
+  },
+  "v-serious": {
+    "type": "Từ vựng vạn năng",
+    "title": "serious",
+    "meaning": "nghiêm trọng",
+    "example": "Air pollution is a serious problem in big cities.",
+    "page": "/foundation/universal-vocabulary/"
+  }
+}

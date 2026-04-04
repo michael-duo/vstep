@@ -1,10 +1,10 @@
 [
+  { "word": "use technology / the internet", "vietnamese": "sử dụng công nghệ / internet", "example": "Most students use technology to study every day." },
   { "word": "shop / study / work online", "vietnamese": "mua sắm / học / làm việc trực tuyến", "example": "I shop online because it is very convenient." },
   { "word": "search for information online", "vietnamese": "tìm kiếm thông tin trên mạng", "example": "I search for information online every day.", "synonyms": "look for information online" },
-  { "word": "perform faster and more efficiently", "vietnamese": "thực hiện nhanh và hiệu quả hơn", "example": "Computers help us perform tasks faster and more efficiently." },
-  { "word": "have less social interactions", "vietnamese": "ít giao tiếp xã hội hơn", "example": "Using phones too much makes people have less social interactions." },
-  { "word": "depend too much on technology", "vietnamese": "phụ thuộc quá nhiều vào công nghệ", "example": "People depend too much on technology nowadays." },
-  { "word": "make people lazier", "vietnamese": "khiến người ta lười hơn", "example": "Technology makes people lazier — they refuse to do tasks by hand." },
+  { "word": "connect with people", "vietnamese": "kết nối với mọi người", "example": "Social media helps me connect with friends around the world." },
+  { "word": "share photos / videos / ideas", "vietnamese": "chia sẻ ảnh / video / ý tưởng", "example": "I often share photos with my friends on social media." },
+  { "word": "download / upload files", "vietnamese": "tải xuống / tải lên tập tin", "example": "Students download materials from the school website." },
   { "word": "spend too much time on screens", "vietnamese": "dành quá nhiều thời gian nhìn màn hình", "example": "Children spend too much time on screens every day." },
   { "word": "protect your privacy online", "vietnamese": "bảo vệ quyền riêng tư trên mạng", "example": "We should protect our privacy online carefully." }
 ]
