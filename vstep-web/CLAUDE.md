@@ -31,9 +31,10 @@ Package manager: pnpm (pnpm-lock.yaml), but npm scripts work fine.
 - **TemplateBox** — blue styled box for templates (Speaking/Writing)
 - **SampleAnswer** — collapsible green box with optional score badge
 - **StudyTrack** — tabbed roadmap component consuming `src/data/study-tracks.json`
+- **TestCard** — card component for exam/test entries
 
 ### Data
-- `src/data/vocabulary/*.json` — 20 topic files, each an array of `{word, vietnamese, example}`
+- `src/data/vocabulary/*.json` — 25 topic files, each an array of `{word, vietnamese, example}`
 - `src/data/study-tracks.json` — 3 study plans (4/8/12 weeks)
 - Data is imported directly in MDX: `import data from '@data/vocabulary/hobbies.json'`
 
@@ -52,32 +53,17 @@ Package manager: pnpm (pnpm-lock.yaml), but npm scripts work fine.
 - All UI text in **Vietnamese**. English only in examples, templates, vocabulary entries.
 - Target audience: weak Vietnamese university students (B1 level = 4.0-5.5/10)
 - Content uses two tiers: basic (visible by default) + nâng cao (collapsed in TierContent)
-- Frequency labels: ★★★ most common, ★★ common, ★ supplementary
 - Bold keywords and key phrases throughout for easy scanning
-- Source materials in `/Users/michael/Desktop/vstep/md/` — original teacher documents used to build content
+- Organize by exam frequency: frequently tested topics first, supplementary content last
+- Source materials: 20 real VSTEP exams (2019-2021) as baseline
 
-## Content Priority Philosophy
+## When Adding Content
 
-Every piece of content is classified into 3 priority levels:
-- ★★★ (learn first): Most common in real exams + easiest to apply (template-based)
-- ★★ (learn next): Important but needs more time to master
-- ★ (supplementary): When there's extra time
-
-Classification formula: **exam frequency × ease of application = priority level**
-
-Sorting rule applies at ALL 3 levels:
-- Sidebar: ★★★ sections first, ★ sections last
-- Pages within section: ★★★ pages listed first
-- Content within page: Items usable in the most situations listed first; niche items listed last
-
-When adding new content:
-1. Classify it ★★★/★★/★ based on the formula above
-2. Place it in the correct priority position (not just appended at the end)
-3. Within a page, sort items by versatility (many situations → first)
-4. Keep language simple — short sentences, tables over paragraphs, one concept per section
-5. Template-first: give students a formula to plug into, never require creativity
-6. Vietnamese diacritics required in all explanatory text. English only in examples/templates/vocabulary.
-7. Source data: 20 real VSTEP exams (2019-2021) as baseline, supplement with web research for frequency validation
+1. Keep language simple — short sentences, tables over paragraphs, one concept per section
+2. Template-first: give students a formula to plug into, never require creativity
+3. Organize by usefulness: content applicable to many situations first, niche content last
+4. Vietnamese diacritics required. English only in examples/templates/vocabulary
+5. No ★ priority symbols (visual clutter for weak learners)
 
 ## Key Patterns
 

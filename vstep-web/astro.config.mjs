@@ -34,45 +34,59 @@ export default defineConfig({
           label: "🧱 Nền tảng",
           items: [
             {
-              slug: "foundation/sentence-patterns",
-              label: "Cấu trúc câu vạn năng",
+              slug: "foundation/basic-grammar",
+              label: "Ngữ pháp căn bản",
             },
-            { slug: "foundation/linking-words", label: "Từ nối" },
             {
-              label: "Từ vựng theo chủ đề",
+              label: "Vạn năng — học kỹ trước",
+              items: [
+                {
+                  slug: "foundation/universal-structures",
+                  label: "Cấu trúc vạn năng",
+                },
+                {
+                  slug: "foundation/universal-phrases",
+                  label: "Cụm từ vạn năng",
+                },
+                {
+                  slug: "foundation/universal-vocabulary",
+                  label: "Từ vựng vạn năng",
+                },
+              ],
+            },
+            {
+              label: "Từ vựng theo chủ đề — bổ sung",
               items: [
                 {
                   slug: "foundation/vocabulary",
                   label: "Tổng quan & Cách ghép",
                 },
                 {
-                  slug: "foundation/vocabulary/hobbies",
-                  label: "Hobbies / Interests",
+                  slug: "foundation/vocabulary/travel",
+                  label: "Travel / Holiday",
                 },
                 {
                   slug: "foundation/vocabulary/education",
                   label: "Education / Study",
                 },
-                { slug: "foundation/vocabulary/jobs", label: "Jobs" },
-                { slug: "foundation/vocabulary/health", label: "Health" },
                 {
-                  slug: "foundation/vocabulary/transportation",
-                  label: "Transportation",
+                  slug: "foundation/vocabulary/hobbies",
+                  label: "Hobbies / Interests",
                 },
-                { slug: "foundation/vocabulary/places", label: "Places" },
                 {
                   slug: "foundation/vocabulary/technology",
                   label: "Technology",
                 },
+                { slug: "foundation/vocabulary/places", label: "Places" },
                 {
-                  slug: "foundation/vocabulary/travel",
-                  label: "Travel / Holiday",
+                  slug: "foundation/vocabulary/transportation",
+                  label: "Transportation",
                 },
+                { slug: "foundation/vocabulary/health", label: "Health" },
+                { slug: "foundation/vocabulary/jobs", label: "Jobs" },
                 { slug: "foundation/vocabulary/crime", label: "Crime" },
               ],
             },
-            { slug: "foundation/sentence-upgrade", label: "Nâng cấp câu" },
-            { slug: "foundation/common-mistakes", label: "Lỗi thường gặp" },
           ],
         },
         {
