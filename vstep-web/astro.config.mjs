@@ -125,10 +125,17 @@ export default defineConfig({
               label: "Task 2: Viết luận",
               items: [
                 {
-                  slug: "writing/task-2/discuss-both-views",
-                  label: "Discuss Both Views",
+                  slug: "writing/task-2/3-khung",
+                  label: "3 khung cho mọi dạng đề",
                 },
-                { slug: "writing/task-2/other-types", label: "3 dạng còn lại" },
+                {
+                  slug: "writing/task-2/discuss-both-views",
+                  label: "Chi tiết: Discuss Both Views",
+                },
+                {
+                  slug: "writing/task-2/causes-effects",
+                  label: "Chi tiết: Causes – Effects",
+                },
               ],
             },
             { slug: "writing/sample-answers", label: "Bài mẫu có phân tích" },
