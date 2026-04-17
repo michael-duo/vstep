@@ -186,6 +186,13 @@ export default defineConfig({
           ],
         },
         {
+          label: "⚡ Ôn tập nhanh",
+          items: [
+            { slug: "reference/quick-check", label: "Quick Check — Tất cả template" },
+            { slug: "reference/smart-template", label: "Smart Template — Đơn giản, dễ nhớ" },
+          ],
+        },
+        {
           label: "📚 Tham khảo thêm",
           items: [
             { slug: "reference/scoring-criteria", label: "Tiêu chí chấm" },
